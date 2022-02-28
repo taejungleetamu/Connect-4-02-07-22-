@@ -5,5 +5,8 @@ as Connect 4 2.0 (purely software) with a new game rule of one of the coins on b
 Connect 4 2.0 will be a mobile Android application that can be easily accessed and played by any user 
 through user vs user in online mode or user vs user on the same device in offline mode. (Application still in progress)
 
+![Screenshot (7)](https://user-images.githubusercontent.com/92398929/155912735-86e76edf-29e8-408e-9db1-742cc0f9d84a.png)
+
+
 Android Studio, Java, Firebase, Phonegap
 
